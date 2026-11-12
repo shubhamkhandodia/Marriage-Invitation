@@ -1,0 +1,8 @@
+# Netlify redirects — keep older/shared links working after the page renames.
+# The invitation card is the site root (index.html).
+/shubham-neelam.html    /             301
+/shubham-neelam         /             301
+/17_The*                /             301
+/18_Venues*             /venues-maps  301
+/19_As*                 /program      301
+/20_The*                /lineages     301
