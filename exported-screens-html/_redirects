@@ -1,0 +1,14 @@
+# Netlify redirects — the invitation is ONE page now.
+# Old shared links land on the matching section of the card instead of a missing page.
+/shubham-neelam.html    /             301
+/shubham-neelam         /             301
+/17_The*                /             301
+/18_Venues*             /#venue       301
+/19_As*                 /#programme   301
+/20_The*                /#families    301
+/program.html           /#programme   301
+/program                /#programme   301
+/venues-maps.html       /#venue       301
+/venues-maps            /#venue       301
+/lineages.html          /#families    301
+/lineages               /#families    301
